@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Pranav Jaggari
 
 
-![](https://komarev.com/ghpvc/?username=pjaggari)
+![](https://komarev.com/ghpvc/?username=pjaggari&color=blue)
 
 
 <!--
